@@ -105,6 +105,9 @@ const App = () => {
           </div>
         </div>
       </div>
+      <span className="author">
+        Thales Silva Morato
+      </span>
     </main>
   );
 };
